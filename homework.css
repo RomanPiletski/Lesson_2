@@ -1,0 +1,49 @@
+#upper{
+    padding: 100px 0 0 0;
+    text-transform: uppercase;
+    font-size: 36px;
+}
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+   }
+.awesome {
+    width: 1400;
+    height: 250;    
+}
+.why-awesome{
+    width: 1400;
+    height: 345;
+    font-size: 0;
+}
+.why-awesome-block{
+    top: 250px;
+    font-size: 20px;
+    width: 33.33%;
+    display: inline-block; 
+    padding: 20px;  
+}
+.why-awesome-block-title{
+    font-size: 14px;
+}
+.circle{
+    border: 2px solid #E72424;
+    border-radius: 50%;
+    width: 70px;
+    padding: 20px;
+    height: 70px;
+    margin: 0 auto;
+}
+.pages{
+    text-align: center;
+    color: green;
+}
+.pages-img{
+    width: 120px;
+    height: 120px;
+}
+.topnav{
+    background-color: rgb(9, 243, 223);
+    padding: 10px;
+}
